@@ -4,7 +4,7 @@ import LoginPage from './POMmars';
 
 // Define the step definitions using Cucumber's Given, When, Then syntax
 
-// Given step: Navigate to the Turnup portal
+// Given step: Navigate to the Mars portal
 Given('the user is navigate to Mars portal', () => {
     LoginPage.loadHomePage();
 });
